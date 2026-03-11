@@ -55,6 +55,4 @@ This view utilizes interactive slicers to analyze customer behavior based on the
 * **Adesola Abiodun Taofeek**
 * **LinkedIn:** [www.linkedin.com/in/abiodun-adesola-a75b53358]
 * **Email:** [abiodunadesola73@gmail.com]
-* **Adesola Abiodun Taofeek**
-* **LinkedIn:** [Your Link Here]
-* **GitHub:** [Your Link Here]
+
